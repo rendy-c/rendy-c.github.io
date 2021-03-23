@@ -1,3 +1,43 @@
 body {
-    background-color: lightblue;
+        background-color: skyblue;
 }
+
+#MyLandmark {
+        margin-top: 120px;
+        color: white;
+        font-family: Courier;
+        font-size: 100px;
+        text-align: center;
+        }
+
+#MyFavoritePlaces{
+        margin-top: 25px;
+        color: black;
+        font-family: Courier;
+        font-size: 50px;
+        text-align: center;
+        }
+
+#map{
+        margin: 50px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+        }
+
+#mapwords {
+        margin-top: 50px;
+        color: black;
+        font-family: Courier;
+        font-size: 50px;
+        text-align: center;
+        }
+
+#store {
+        margin-top: 25px;
+        color: black;
+        font-family: Courier;
+        font-size: 50px;
+        text-align: center;
+        }
